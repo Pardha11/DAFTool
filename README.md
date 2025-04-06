@@ -1,4 +1,4 @@
-# StutterMic
+# DAFTool
 Delayed Auditory Feedback (DAF) for stuttering
 
 ## install pyaudio
